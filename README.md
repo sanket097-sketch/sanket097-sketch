@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hi 👋
+This is Sanket
 # 💫 About Me:
-i'm currently working on mastering the python<br>learning the DSA<br>eager to work with mnc
+i'm currently mastering the python<br>learning the DSA<br>shaping the thoughts
 
 
 # 💻 Tech Stack:
